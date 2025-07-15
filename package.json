@@ -1,0 +1,28 @@
+{
+  "name": "discordbot-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcarrera007/discordbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jcarrera007/discordbot/issues"
+  },
+  "homepage": "https://github.com/Jcarrera007/discordbot#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0"
+  }
+}
